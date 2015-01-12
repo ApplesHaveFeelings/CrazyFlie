@@ -1,10 +1,17 @@
 # CrazyFlie
 
+description of the project 
+
 ## heading
+
+notes
 
 ### sub-heading
 
+finer details
+
 #### etc...
+
 
 
 - bullets
